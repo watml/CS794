@@ -8,7 +8,5 @@ The following packages need to be installed:
 ```Julia
   using Pkg 
   Pkg.add("Plots")
-  
-  using Pkg
   Pkg.add("LaTeXStrings")
 ```
