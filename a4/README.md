@@ -1,8 +1,8 @@
 For this assignment, you need to submit executable files (e.g. 'alg1.py' Python files), that can be run from commandline, your submission must be able to run with the following line:
 
-"alg_name.py filename1 filename2"
+"python alg_name.py filename1 filename2"
 
-where filename1 is the input list of starting boards, filename2 is the list of ground truth solutions.
+where filename1 is the input list of starting boards, filename2 is the list of ground truth solutions. If you don't know how to do it, search 'python command line arguments' and you can find a lot of resources.
 
 You can download the sample files from this repository.
 
